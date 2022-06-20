@@ -20,8 +20,16 @@ function isOdd(number) {
 isOdd(11)
 isOdd(50)
 
+<<<<<<< HEAD
 function add(p1, p2){
     console.log(`${p1} + ${p2} = ${ p1 + p2}`)
 }
 
 add(35 , 60)
+=======
+function substract(p1, p2){
+    console.log(`${p1} - ${p2} = ${p1-p2}`)
+}
+
+substract(900 , 500)
+>>>>>>> substract-function
